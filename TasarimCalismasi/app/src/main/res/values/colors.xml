@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Renkler -->
+    <color name="mainColor">#CB2020</color>
+    <color name="mainDarkColor">#BF2020</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="textColor2">#636363</color>
+
+</resources>
